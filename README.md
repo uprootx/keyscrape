@@ -20,3 +20,5 @@ From this repo run
 ```docker build -t keyscrape .```
 
 ```docker run --rm -ti --user 1000:1000 -v $(pwd):/usr/src/app keyscrape:latest```
+
+*Disclaimer: i'm just teaching myself :)*
